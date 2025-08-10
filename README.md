@@ -32,7 +32,7 @@ It follows a similar workflow to Bloomberg’s news feed API:
 5) Displays them in the Python terminal.
 
 
-EXAMPLE OUTPUT:
+EXAMPLE OUTPUT (This is directly from my terminal:
 ---------------
 Total articles fetched: 100
 Articles matching keywords: 88
