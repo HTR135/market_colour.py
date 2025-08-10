@@ -11,7 +11,7 @@ The keyword set I listed is fully customisable, meaning you can be alter it for:
 - Geography (e.g., EM vs. DM)
 - Market events (e.g., central bank interest rate changes)
 
-To specify relevancy further, we can also tune the parameter set in lines 67. The line I wrote for the example is "q": "sovereign bond" but can be changed to something like "q": "oil futures" etc.
+To specify relevancy further, we can also tune the parameter set in lines 67. The line I wrote for the example is "q": "monetary policy" but can be changed to something like "q": "oil futures" etc.
 
 This project mirrors tools traders and portfolio managers use on a desk to maintain macroeconomic awareness throughout the their day. This allows for faster reaction to relevant news events, such as NFP, CPI, etc.
 
