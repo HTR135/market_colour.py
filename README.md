@@ -1,4 +1,4 @@
-# market_colour.py
+# market_colour
 
 DESCRIPTION:
 ------------
