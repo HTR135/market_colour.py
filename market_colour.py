@@ -64,7 +64,7 @@ def keyword_found(text):
 
 # Set Parameters for NewsAPI
 parameters = {
-    "q": "sovereign bonds",  # Most important line IMO. This specifies the news captured
+    "q": "monetary policy",  # Most important line IMO. This specifies the news captured
     "language": "en",       # To make sure we get news in English
     "pageSize": 100,        # Max articles per request
     "apiKey": API_KEY
