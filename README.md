@@ -33,25 +33,8 @@ It follows a similar workflow to Bloomberg’s news feed API:
 
 
 EXAMPLE OUTPUT (This is directly from my terminal):
----------------
-Total articles fetched: 100
-Articles matching keywords: 88
+<img width="1080" height="681" alt="Screenshot 2025-08-10 at 23 02 59" src="https://github.com/user-attachments/assets/b8168fbe-4b4e-4b91-b9dc-b031111799e3" />
 
-[1] Jain Global by the numbers: A look at the hedge fund's rollercoaster first year
-Bobby Jain debuted one of the most complex and ambitious hedge fund launches ever. BI dug into the numbers behind its first year in business.
-https://www.businessinsider.com/bobby-jain-global-first-year-charts-numbers-2025-7
-
-[2] Ballooning U.S. National Debt Makes Short-Term Bonds A Wiser Choice
-Market forces will likely dictate yield trends over the long term, and investors should prepare for potential volatility as sovereign risk grows.
-https://www.forbes.com/sites/danirvine/2025/07/31/ballooning-us-national-debt-makes-short-term-bonds-a-wiser-choice/
-
-[3] European Democracy Needs Its Middle Class Back
-The middle class forms the core of our societies and the scaffolding that keeps our democracies standing. Rather than treat it as the collateral damage of inevitable progress, Europe's leaders should pursue a strategy to rebuild it, financed by European sover…
-https://www.project-syndicate.org/commentary/comprehensive-strategy-to-restore-europe-middle-class-by-bertrand-badre-and-eric-hazan-2025-07
-
-[4] Will U.S. Government Bonds Rally?
-U.S. long-term interest rates remain elevated in July 2025, with the long bond futures in a two-year consolidation range that is closer to technical support ...
-https://www.barchart.com/story/news/33626120/will-u-s-government-bonds-rally
 
 
 
